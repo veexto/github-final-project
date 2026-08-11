@@ -1,48 +1,39 @@
-# IBM Full Stack Software Developer Certificate Course Code of Conduct
+# Contributor Covenant Code of Conduct
 
 ## Our Pledge
-
-We, as participants and contributors in the IBM Full Stack Software Developer Certificate Course, pledge to create a positive and inclusive learning environment for everyone, regardless of background, experience, or identity.
+We as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
 
 ## Our Standards
-
-Examples of behavior that contribute to a positive learning environment include:
-
-- Using respectful and inclusive language
-- Valuing and appreciating diverse perspectives and experiences
-- Offering constructive feedback and support to fellow learners
-- Focusing on the collective learning goals of the course
-- Demonstrating empathy and understanding towards fellow course participants
+Examples of behavior that contributes to a positive environment for our community include:
+* Demonstrating empathy and kindness toward other people
+* Being respectful of differing opinions, viewpoints, and experiences
+* Giving and gracefully accepting constructive feedback
+* Accepting responsibility and apologizing to those affected by our mistakes, and learning from the experience
+* Focusing on what is best not just for us as individuals, but for the overall community
 
 Examples of unacceptable behavior include:
+* The use of sexualized language or imagery, and sexual attention or advances of any kind
+* Trolling, insulting or derogatory comments, and personal or political attacks
+* Public or private harassment
+* Publishing others' private information, such as a physical or email address, without their explicit permission
+* Other conduct which could reasonably be considered inappropriate in a professional setting
 
-- Harassment, discrimination, or bullying in any form
-- Disruptive or disrespectful comments or behavior
-- Plagiarism or dishonesty in assignments and assessments
-- Violations of Coursera's terms of service or academic integrity policies
-- Any behavior that undermines the learning experience of others
-
-## Our Responsibilities
-
-Course instructors and facilitators are responsible for maintaining a positive and inclusive learning environment. They are committed to providing guidance, addressing concerns, and ensuring fairness in assessments and grading.
-
-All participants have the responsibility to:
-
-- Treat others with respect and kindness
-- Uphold academic integrity by submitting their own work
-- Report any incidents of inappropriate behavior or academic misconduct
-- Contribute to a collaborative and supportive learning community
-
-## Enforcement
-
-Incidents of inappropriate behavior or academic misconduct should be reported to the course instructors or administrators for investigation. Appropriate actions will be taken based on the severity of the incident, which may include warnings, course access restrictions, or referral to Coursera for further action.
+## Enforcement Responsibilities
+Community leaders are responsible for clarifying and enforcing our standards of acceptable behavior and will take appropriate and fair corrective action in response to any behavior that they deem inappropriate, threatening, offensive, or harmful.
 
 ## Scope
+This Code of Conduct applies within all community spaces, and also applies when an individual is officially representing the community in public spaces.
 
-This Code of Conduct applies to all course-related activities, discussions, assignments, and assessments within the IBM Full Stack Software Developer Certificate Course.
+## Enforcement
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible for enforcement. All complaints will be reviewed and investigated promptly and fairly.
+
+## Enforcement Guidelines
+Community leaders will follow these Community Impact Guidelines in determining the consequences for any action they deem in violation of this Code of Conduct:
+
+1. **Correction**: A private, written warning from community leaders, providing clarity on the nature of the violation and an explanation of why the behavior was inappropriate.
+2. **Warning**: A warning with consequences for continued behavior.
+3. **Temporary Ban**: A temporary ban from any sort of interaction or public communication with the community for a specified period of time.
+4. **Permanent Ban**: A permanent ban from any sort of public interaction within the community.
 
 ## Attribution
-
-This Code of Conduct is adapted for the IBM Full Stack Software Developer Certificate Course and is inspired by the principles of respectful and inclusive learning.
-
-For any questions or concerns related to this code of conduct, please contact the course instructors or administrators.
+This Code of Conduct is adapted from the Contributor Covenant, version 2.0.
