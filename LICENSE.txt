@@ -19,3 +19,14 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+---
+
+### **Task 2: `LICENSE`**
+
+**The Issue:** 
+1. The file was named `LICENSE.txt` instead of `LICENSE` (without `.txt`).
+2. The content was MIT License instead of the official **Apache License 2.0**.
+
+**URL to Submit:**
+```text
+https://github.com/veexto/github-final-project/blob/main/LICENSE
